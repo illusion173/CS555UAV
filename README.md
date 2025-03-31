@@ -14,9 +14,11 @@ The dataset used are photos of rotary drones. We plan to use this dataset to tra
 ## Model
 
 ### Links
-[Drone Dataset Link (Kraggle)](https://www.kaggle.com/datasets/dasmehdixtr/drone-dataset-uav)
+[Drone Dataset Link (Kaggle)](https://www.kaggle.com/datasets/dasmehdixtr/drone-dataset-uav)
 
 
 # Usage
+
+## Software Requirements
 
 # Future Work
