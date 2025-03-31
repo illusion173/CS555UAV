@@ -4,6 +4,7 @@
 - Caleb Hall
 
 # Summary
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DLV6lsGDGVEIjHx-Ic6u0DX8DcEs2V_P?usp=sharing)
 This project serves as a way to practice AI training, data ingestion and overall the lessons we learned in CS555.
 
 ## Dataset
