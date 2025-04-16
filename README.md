@@ -10,11 +10,14 @@ This project serves as a way to practice AI training, data ingestion and overall
 
 To edit this project, either execute it in google colab using the link above, or download this repo locally.
 
-## Editing On the Cloud
+## Editing
 - Download and unzip the drone dataset from the kaggle link [below](#links) into a mounted google drive path as indicated in the first cell.
+- View the sections of the code before any editing, instructions are often in the comments of each section.
 
-## Cloud Usage
+## Usage
 - Download and unzip the drone dataset from the kaggle link [below](#links) into a mounted google drive path as indicated in the first cell.
+- Execute the first cell to initialize the runtime and download libraries
+- 
 
 ## Editing Locally
 - Clone this repo locally.
