@@ -16,6 +16,7 @@ To edit this project, either execute it in google colab using the link above, or
 
 ## Usage
 - Download and unzip the drone dataset from the kaggle link [below](#links) into a mounted google drive path as indicated in the first cell. (Root Folder of Google Drive)
+- Once imported into Google Colab, change enviroment to utilize GPU through the settings Runtime > Change runtime type > Hardware accelerator > T4 GPU
 - Execute the first cell to initialize the runtime and download libraries.
 - Execute all Cells to demonstrate training and validation of the YoloV11 model.
 
