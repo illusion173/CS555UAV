@@ -24,7 +24,6 @@ To edit this project, either execute it in google colab using the link above, or
 - Ensure to activate a Python virtual environment in Python3, install the required libraries as denoted by requirements.txt
 - Edit the CS555Proj.ipynb file as needed.
 - The model folder contains the physical models that we have trained.
-- The data folder 
 
 ## Local Usage
 - Clone this repo locally.
